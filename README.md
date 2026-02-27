@@ -1,4 +1,4 @@
-# Microproyecto 1
+# Microproyecto 1 - Valentina Lopez, Sebastian Guerrero y Juan Peña
 
 Lanzar VMs. Se utiliza File, Ansible y Shell para el aprovisionamiento:
 
